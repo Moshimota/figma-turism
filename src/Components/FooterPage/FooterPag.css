@@ -1,0 +1,79 @@
+.bek {
+    background: #F9F9F9;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.txt {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+
+    color: #5B5B5B;
+    margin-bottom: 34px;
+    margin-top: 24px;
+}
+
+.gg {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    
+
+    color: #161414;
+}
+.per{
+    font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #5B5B5B;
+
+}
+.qal{
+    font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+
+color: #161414;
+}
+.your{
+    font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+
+
+color: #5B5B5B;
+}
+.email{
+    font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #161414;
+}
+.dfem2{
+    width: 250px;
+height: 80px;
+
+background: #FFFFFF;
+border-radius: 12px;
+padding: 16px;
+}
+.df2{
+    display: flex;
+    margin-top: 20px;
+}
+.btn5{
+    width: 72px;
+height: 80px;
+border: none;
+background: #7B61FF;
+border-radius: 12px;
+}

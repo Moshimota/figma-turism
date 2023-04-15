@@ -1,0 +1,39 @@
+.katta{
+    margin-top: 206px;
+    font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+
+color: #161414;
+
+}
+.lor2{
+    font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* or 200% */
+
+
+color: #5B5B5B;
+}
+.btn3{
+    font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+margin-top: 32px;
+border: none;
+width: 133px;
+height: 44px;
+
+background: #F6F4FF;
+border-radius: 12px;
+color: #5243C2;
+}
+.kamanda{
+    border-radius: 20px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+}

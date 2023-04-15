@@ -1,0 +1,36 @@
+.btn2   {
+    font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+margin-top: 122px;
+color: #5243C2;
+width: 105px;
+height: 44px;
+border: none;
+background: #F6F4FF;
+border-radius: 12px;
+}
+.end{
+    text-align: end;
+}
+.h32{
+    font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #161414;
+
+}
+.lor1{
+    font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* or 200% */
+
+
+color: #5B5B5B;
+}

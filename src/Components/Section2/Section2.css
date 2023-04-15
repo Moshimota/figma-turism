@@ -1,0 +1,39 @@
+.btn2   {
+    font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+margin-top: 122px;
+color: #5243C2;
+width: 105px;
+height: 44px;
+border: none;
+background: #F6F4FF;
+border-radius: 12px;
+}
+.end{
+    text-align: end;
+}
+.name{
+    font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+margin-top: 10px;
+margin-bottom: 12px;
+color: #161414;
+}
+.op{
+    font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height */
+
+color: #979797;
+}
+.df1{
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,20 @@
+h1 {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 62px;
+    color: #FFFFFF;
+}
+
+.tac {
+    text-align: center;
+    padding-top: 150px;
+}
+
+.btn1{
+    margin-top: 32px;
+    width: 273px;
+    height: 72px;
+    background: #7B61FF;
+    border-radius: 12px;
+    border: none;
+}

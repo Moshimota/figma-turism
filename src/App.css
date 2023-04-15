@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.header{
+  background: url(./Components/NavbarPage/img/AdobeStock_251238249\ 1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;  
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
